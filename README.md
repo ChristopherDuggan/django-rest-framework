@@ -361,5 +361,5 @@ This is the start of the journey - feel free to view the [Django REST Framework]
 Now let's build out our old friend the Cat Collector with a Django Rest
 Framework (and JWT) twist!
 
-1. [Django Setup, URLs, and Views](/catcollector/setup-url-views/README.md)
+1. [Django Setup, URLs, and Views](/catcollector/setup-urls-views/README.md)
 1. [Models and Serializers](/catcollector/models-serializers/README.md) 
