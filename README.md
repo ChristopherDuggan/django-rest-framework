@@ -365,3 +365,4 @@ Framework (and JWT) twist!
 1. [Models and Serializers](/catcollector/models-serializers/README.md)
 1. [One to Many Models](/catcollector/one-to-many-models/README.md)
 1. [Extra Rep](/catcollector/extra-rep/README.md)
+1. [Many to Many Models](/catcollector/many-to-many-models/README.md)
