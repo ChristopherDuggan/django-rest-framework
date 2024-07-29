@@ -362,7 +362,8 @@ Now let's build out our old friend the Cat Collector with a Django Rest
 Framework (and JWT) twist!
 
 1. [Django Setup, URLs, and Views](/catcollector/setup-urls-views/README.md)
-1. [Models and Serializers](/catcollector/models-serializers/README.md)
-1. [One to Many Models](/catcollector/one-to-many-models/README.md)
-1. [Extra Rep](/catcollector/extra-rep/README.md)
-1. [Many to Many Models](/catcollector/many-to-many-models/README.md)
+2. [Models and Serializers](/catcollector/models-serializers/README.md)
+3. [One to Many Models](/catcollector/one-to-many-models/README.md)
+4. [Extra Rep](/catcollector/extra-rep/README.md)
+5. [Many to Many Models](/catcollector/many-to-many-models/README.md)
+6. [Authentication](/catcollector/authentication/README.md)
