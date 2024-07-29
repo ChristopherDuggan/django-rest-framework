@@ -367,3 +367,6 @@ Framework (and JWT) twist!
 4. [Extra Rep](/catcollector/extra-rep/README.md)
 5. [Many to Many Models](/catcollector/many-to-many-models/README.md)
 6. [Authentication](/catcollector/authentication/README.md)
+
+and finally
+[DRF + JWT Cat Collector Final Code](https://github.com/ChristopherDuggan/drf-catcollector-final)
