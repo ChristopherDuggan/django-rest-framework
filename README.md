@@ -370,3 +370,6 @@ Framework (and JWT) twist!
 
 and finally
 [DRF + JWT Cat Collector Final Code](https://github.com/ChristopherDuggan/drf-catcollector-final)
+
+and FOR REAL finally
+[Deploying on Heroku](https://github.com/ChristopherDuggan/django-catcollector-deployment)
